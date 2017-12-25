@@ -1,0 +1,61 @@
+
+1. 语法解析的改进
+blog.csdn.net/lanxu_yy/article/details/38336129
+
+2. 聊天机器人（Chatbot）开发：自然语言处理（NLP）技术栈
+
+blog.csdn.net/QFire/article/details/78809270
+
+3. 自然语言处理入门的正确打开方式
+
+blog.csdn.net/AMDS123/article/details/72860143
+
+
+4. 基于自然语言处理角度谈谈CRF
+blog.csdn.net/zdy0_2004/article/details/52099271
+
+5. 自然语言处理（NLP）领域学术资料
+
+blog.csdn.net/hejunqing14/article/details/52193304
+
+
+6. 自然语言处理NLP基本知识小结 
+
+blog.csdn.net/yimingsilence/article/details/54934516
+
+
+7. NLP--自然语言处理与机器学习会议
+
+blog.csdn.net/jdbc/article/details/48206513
+
+
+8. 句法分析 (syntactic parsing) 在 NLP 领域的应用
+
+blog.csdn.net/wangxin1982314/article/details/72327483
+
+9. 标注问题与隐马尔科夫模型（Tagging Problems, and Hidden Markov Models）
+
+blog.csdn.net/lanxu_yy/article/details/36245161
+
+
+10. 自然语言处理原理与实践 5 词性、语块和命名实体识别
+
+blog.csdn.net/QFire/article/details/78803091
+
+11. 一文读懂自然语言处理NLP
+
+blog.csdn.net/oanqoanq/article/details/78672442
+
+12. 最有影响力的自然语言处理NLP论文
+
+blog.csdn.net/GarfieldEr007/article/details/50845590
+
+
+
+
+
+
+
+
+
+
